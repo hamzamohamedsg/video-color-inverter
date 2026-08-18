@@ -57,6 +57,3 @@ The extension is engineered on **Manifest V3** for maximum performance and secur
 
 ---
 
-## License
-
-Distributed under the MIT License. Feel free to modify and adapt for your own workflows.
