@@ -30,17 +30,6 @@
 * **Accessibility Support:** Enhanced visual contrast tailored for users sensitive to high luminosity or specific visual impairments.
 * **Low-Light Environments:** Watch tutorial videos or recorded presentations in dark rooms without harsh display glare.
 
----
-
-## Technical Architecture
-
-The extension is engineered on **Manifest V3** for maximum performance and security:
-
-* **Background Service Worker (`background.js`):** Listens for user action on the extension icon.
-* **Script Injection (`chrome.scripting`):** Executes `toggleInvert()` dynamically across all frames on the active tab upon interaction.
-* **CSS Filter Manipulation:** Directly toggles the CSS property `filter: invert(1)` on targeted `<video>` nodes.
-
----
 
 ## Permissions Explained
 
