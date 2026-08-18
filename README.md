@@ -1,6 +1,6 @@
 # Video Color Inverter
 
-> A lightweight, privacy-friendly Google Chrome extension to instantly invert HTML5 video elements across any webpage or embedded iframe.
+> I made this because my eyes where hurting from whiteboards in lectures and wanted all the lectures that I viewed to look similar to The Organic Chemistry Tutor.
 
 ---
 
