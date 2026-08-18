@@ -10,12 +10,17 @@
 
 ---
 
-## Highlights
+## Quick Installation
+
+1. Download or clone this repository to your local computer.
+2. Open Google Chrome and navigate to `chrome://extensions/`.
+3. Toggle on **Developer mode** in the top-right corner.
+4. Click **Load unpacked** in the top-left area.
+5. Select the repository root folder containing `manifest.json`.
+
+---
 
 * **One-Click Toggle:** Click the extension icon in your toolbar to instantly switch between inverted and original video colors.
-* **Full Canvas & Iframe Support:** Seamlessly targets both root video elements and videos embedded within `<iframe>` structures.
-* **Non-Intrusive & Fast:** Operates via on-demand script injection—zero background resource consumption when inactive.
-* **Privacy-First:** Requires no user analytics, tracking, or remote server connections.
 
 ---
 
@@ -24,16 +29,6 @@
 * **Lecture Videos & Chalkboards:** Invert bright white whiteboard backgrounds to dark canvas mode for comfortable nighttime study.
 * **Accessibility Support:** Enhanced visual contrast tailored for users sensitive to high luminosity or specific visual impairments.
 * **Low-Light Environments:** Watch tutorial videos or recorded presentations in dark rooms without harsh display glare.
-
----
-
-## Quick Installation
-
-1. Download or clone this repository to your local computer.
-2. Open Google Chrome and navigate to `chrome://extensions/`.
-3. Toggle on **Developer mode** in the top-right corner.
-4. Click **Load unpacked** in the top-left area.
-5. Select the repository root folder containing `manifest.json`.
 
 ---
 
