@@ -16,7 +16,7 @@
 2. Open Google Chrome and navigate to `chrome://extensions/`.
 3. Toggle on **Developer mode** in the top-right corner.
 4. Click **Load unpacked** in the top-left area.
-5. Select the repository root folder containing `manifest.json`.
+5. Select the folder.
 
 ---
 
